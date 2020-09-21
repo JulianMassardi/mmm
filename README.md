@@ -1,6 +1,6 @@
-#Trabajo Practico 1#
+#Trabajo Practico 1
 
-###Integrantes del Grupo###
+###Integrantes del Grupo
 * Diego Jofre  
 * Emanuel Granara  
 * Julián Massardi  
